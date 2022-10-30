@@ -1,7 +1,8 @@
 # News-Page
 
-![image](https://user-images.githubusercontent.com/93801572/198434645-787424b1-ab96-466c-886d-cb799059bd0e.png)
-![image](https://user-images.githubusercontent.com/93801572/198858635-e76f6e7a-1dc1-490d-8c3d-2f62f79ccebb.png)
+![image](https://user-images.githubusercontent.com/93801572/198859825-c8e2afba-f2a3-4683-b673-b9dbdbfc3622.png)
+![image](https://user-images.githubusercontent.com/93801572/198859787-ec35bda5-640c-4059-9678-60248f191378.png)
+
 
 
 Projeto 
