@@ -1,5 +1,5 @@
 
-const apiKey = 'bdde211eaf5b42aeaf8e9f536e86d444'; 
+const apiKey = ''; 
 
 const endpoint = `https://newsapi.org/v2/everything?q=meio%20ambiente&language=pt&sortBy=publishedAt&pageSize=8&apiKey=${apiKey}`;
 
